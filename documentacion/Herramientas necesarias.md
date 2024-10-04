@@ -1,5 +1,4 @@
 
-```markdown
 # Herramientas Necesarias
 
 Les presentamos una lista de las herramientas necesarias, que utilizaremos en el curso y sus respectivos links.

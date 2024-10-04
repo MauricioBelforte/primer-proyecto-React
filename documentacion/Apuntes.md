@@ -1,5 +1,4 @@
 
-```markdown
 # Apuntes
 
 ## Instalación de Node.js

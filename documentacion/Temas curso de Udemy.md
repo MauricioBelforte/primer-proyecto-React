@@ -1,5 +1,4 @@
 
-```markdown
 # Temas del Curso de React de Udemy
 
 ## Sección 1: Introducción
